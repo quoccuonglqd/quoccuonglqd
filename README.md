@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Quoc Cuong Nguyen</h1>
+
+- 😄 Hi there, this is Quoc Cuong Nguyen. I am a Graduate Student at University of Information Technology, VietNam National University.
+- 🔭 My research interest includes deep learning, computer vision, representation learning
+- 👯 I am open to work, feel free to contact me via Email (👈)!
+- ⚡ Please check my [homepage](https://quoccuonglqd.github.io/quoccuonguit/about/) for my CV and latest update!
 
 <!--
 **quoccuonglqd/quoccuonglqd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
