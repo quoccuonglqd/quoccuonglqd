@@ -2,7 +2,7 @@
 
 - 😄 Hi there, this is Quoc Cuong Nguyen. I am a Graduate Student at University of Information Technology, VietNam National University.
 - 🔭 My research interest includes deep learning, computer vision, representation learning
-- 👯 I am open to work, feel free to contact me via Email (👈)!
+- 👯 I am open to work, feel free to contact me via [Email](mailto:quoccuonglqd123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)(👈)!
 - ⚡ Please check my [homepage](https://quoccuonglqd.github.io/quoccuonguit/about/) for my CV and latest update!
 
 <!--
