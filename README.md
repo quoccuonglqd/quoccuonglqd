@@ -5,6 +5,8 @@
 - 👯 I am open to work, feel free to contact me via [Email](mailto:quoccuonglqd123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)(👈)!
 - ⚡ Please check my [homepage](https://quoccuonglqd.github.io/quoccuonguit/about/) for my CV and latest update!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=quoccuonglqd)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **quoccuonglqd/quoccuonglqd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
